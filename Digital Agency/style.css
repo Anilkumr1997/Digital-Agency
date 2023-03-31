@@ -50,7 +50,7 @@
     margin-top: 10px;
 }
 
-.bars-icon{
+#menuBtn{
     display: none;
 }
 
@@ -107,7 +107,7 @@ ul li a:hover::after {
         transition: 0.5s;
         
     }
-    .bars-icon{
+    #menuBtn{
         position: fixed;
         right: 30px;
         top: 23px;
